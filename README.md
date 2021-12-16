@@ -1,7 +1,9 @@
 # log4j-finder
 Find vulnerable Log4j installations
 
-A Python3 script to scan the filesystem to find Log4j2 that is vulnerable to Log4Shell (CVE-2021-44228 & CVE-2021-45046). It scans recursively to locate suspect jar files on disk and compares them to published checksum of vulnerable log4j versions.
+A bash shell script to scan your filesystems to find log4j install bases that are vulnerable to Log4Shell (CVE-2021-44228 & CVE-2021-45046). It scans recursively to locate suspect jar files on disk and compares them to published checksums of vulnerable log4j versions.
+
+Works on Linux, AIX, Solaris
 
 
 ## Usage

@@ -33,7 +33,8 @@ log4j_hashes="
 a193703904a3f18fb3c90a877eb5c8a7:Vulnerable:log4j 2.8.2
 f1d630c48928096a484e4b95ccb162a0:Vulnerable:log4j 2.14.0 - 2.14.1
 5d253e53fa993e122ff012221aa49ec3:Vulnerable:log4j 2.15.0
-ba1cf8f81e7b31c709768561ba8ab558:OK:log4j 2.16.0"
+ba1cf8f81e7b31c709768561ba8ab558:OK:log4j 2.16.0
+3dc5cf97546007be53b2f3d44028fa58:OK:log4j 2.17.0"
 
 # JndiManager.class (source: https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.16.0/log4j-core-2.16.0.jar)
 #log4j_good_hashs="
